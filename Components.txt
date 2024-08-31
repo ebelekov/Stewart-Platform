@@ -1,0 +1,10 @@
+#	MODEL		NAME			QUANTITY
+
+1	MG 996R		RC Servo Motor		6
+2	3D Print	motor_yatagi		6
+3	3D Print	servo_arm_v3		6
+4	Arduino		UNO R3 Clone		1
+5	Pololu		Maestro			1
+6	MPU 6050	IMU			1
+7	Magnets		6-mm dia		10
+8	Joints		Ball Joint		12		
